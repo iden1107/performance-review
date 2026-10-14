@@ -27,3 +27,5 @@ Homestead.yaml
 Thumbs.db
 資料
 .venv
+/public/laravel
+/laravel
